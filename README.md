@@ -17,6 +17,8 @@ Unlock higher frame rates above 60 in Roblox games with this open-source FPS Unl
 - **Open Source:** This project is open source, allowing you to review and modify the code.
 - **Batch File Operation:** Runs on a batch file, allowing you to view the code that you downloaded.
 - **Resource Efficiency:** Does not run in the background at all, therefore doesn't use your resources.
+- **Very simple to use:** All it takes is running the provided batch file – no complex procedures or technical know-how required.
+- **Compact and small in size:** The FPS Unlocker minimizes its impact, requiring a mere 5KB of storage on your device.
 
 ### 2. How can I check my FPS?
 
