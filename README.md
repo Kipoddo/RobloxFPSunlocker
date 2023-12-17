@@ -2,11 +2,11 @@
 
 Unlock higher frame rates above 60 in Roblox games with this open-source FPS Unlocker. This tool operates efficiently without running in the background, ensuring optimal CPU utilization.
 
-# OUT NOW!
+# VERSION 1.0 IS OUT NOW!
 
 ## Installation
 
-1. Download the latest release from [GitHub Releases](https://github.com/Kipoddo/RobloxFPSunlocker).
+1. Download the latest release from [GitHub Release](https://github.com/Kipoddo/RobloxFPSunlocker/releases).
 2. Extract the downloaded zip file.
 3. Run the batch file located in the `RobloxFPSunlocker` folder called `RobloxFPSunlocker.bat`
 4. Have a blast 💥❗
