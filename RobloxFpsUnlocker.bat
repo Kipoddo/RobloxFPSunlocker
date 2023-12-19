@@ -22,7 +22,7 @@ if not exist "%client_settings_path%\" (
     mkdir "%client_settings_path%"
     (
         echo {
-        echo   "DFIntTaskSchedulerTargetFps": 999,
+        echo   "DFIntTaskSchedulerTargetFps": 999999,
         echo   "FFlagReportFpsAndGfxQualityPercentiles": false,
         echo }
     ) > "%client_settings_path%\ClientAppSettings.json"
