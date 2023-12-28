@@ -6,7 +6,7 @@ Unlock higher frame rates above 60 in Roblox games with this open-source FPS Unl
 
 ## Installation
 
-1. Download the latest release from [GitHub Release]([https://github.com/Kipoddo/RobloxFPSunlocker/releases](https://github.com/Kipoddo/RobloxFPSunlocker/releases/tag/v1.0.0)).
+1. Download the latest release from [GitHub Release](https://github.com/Kipoddo/RobloxFPSunlocker/releases/tag/v1.0.0).
 2. Extract the downloaded zip file.
 3. Run the batch file located in the `RobloxFPSunlocker` folder called `RobloxFPSunlocker.bat`
 4. Have a blast 💥❗
