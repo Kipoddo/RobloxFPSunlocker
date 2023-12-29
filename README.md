@@ -36,12 +36,8 @@ Unlock higher frame rates above 60 in Roblox games with this open-source FPS Unl
 
 - Your computer might not meet the requirements to handle higher frame rates.
 
-### 5. Why did it install Python on my computer?
 
-- This project uses Python to display messages and enhance functionality. If you prefer not to have Python installed or wish to customize the batch file to exclude Python usage.
-- Note: This inconvenience might change in the future.
-
-### 6. Why did Windows Defender flag the file as unknown, and is it malicious?
+### 5. Why did Windows Defender flag the file as unknown, and is it malicious?
 
 - Windows Defender detected this file because it lacks a digital signature as a batch file. To ensure the file's authenticity, you - can examine the source code or use services like VirusTotal for further verification.
 - And no, this doesn't contain a virus.
