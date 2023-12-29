@@ -20,16 +20,22 @@ exit /b
 set "client_settings_path=%roblox_folder%%new_folder_name%"
 if not exist "%client_settings_path%\" (
     mkdir "%client_settings_path%"
+    
+    rem Prompt user for input
+    set /p "target_fps=Enter the desired FPS cap (e.g., 999): "
+    
+    rem Write to the JSON file using user input
     (
         echo {
-        echo   "DFIntTaskSchedulerTargetFps": 999999,
+        echo   "DFIntTaskSchedulerTargetFps": !target_fps!,
         echo   "FFlagReportFpsAndGfxQualityPercentiles": false,
         echo }
     ) > "%client_settings_path%\ClientAppSettings.json"
-    echo Successfully unlocked FPS!
-    echo Kindly be aware that in order to unlock FPS, it may be necessary to run this program every Thursday / Wednesday, as Roblox regularly updates its client.
+    
+    echo Successfully set FPS cap to !target_fps!.
+    echo Kindly be aware that in order to apply the FPS cap, it may be necessary to run this program every Thursday / Wednesday, as Roblox regularly updates its client.
 ) else (
-    echo The FPS unlocker is already set up.
+    echo The FPS cap is already set up.
 )
 
 pause
